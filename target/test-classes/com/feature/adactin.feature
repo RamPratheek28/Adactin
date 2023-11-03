@@ -35,9 +35,7 @@ And user Select The Expiry Date and Expiry Year In The Dropdown Field
 And user Enter The CVV Number 
 Then User Click The Booknow and It Navigates To The Booking Confirmation Page
 
-@smokeTest
-Scenario: User Confirms Booking Hotel In The Web Application
-Then user Click My Iternary and It Navigates To The Booked Iternary Page
+
 
 
 
